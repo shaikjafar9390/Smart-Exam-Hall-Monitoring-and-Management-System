@@ -493,7 +493,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Shaikh Jafar**
+**Shaik Jafar**
 
 Electronics and Communication Engineering — Embedded Systems
 
